@@ -27,4 +27,5 @@ class Person
       end
     end
   end
+  likes_candy
 end
