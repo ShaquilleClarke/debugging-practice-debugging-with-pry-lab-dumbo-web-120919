@@ -19,6 +19,7 @@ class Person
   end
 
   def ballin_candy_lover?
+    likes_candy = likes_candy
     if likes_candy
       "Aw sweet, this cat loves them some candy!"
     else
